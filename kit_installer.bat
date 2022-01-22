@@ -10,10 +10,10 @@ REM update below path if required
 SET PY_LOCATION="C:\Python"
 SET PY_VERSION=3.9.8
 SET PY_DOWNLOAD_URL=https://www.python.org/ftp/python/3.9.8/python-3.9.8-amd64.exe
-SET REPO_DOWNLOAD_URL=https://github.com/kandikits/student-grade-analytics/releases/download/v1.0.0/fake-news-detection-main.zip
-SET REPO_DEPENDENCIES_URL=https://raw.githubusercontent.com/kandikits/fake-news-detection/main/requirements.txt
-SET REPO_NAME=fake-news-detection.zip
-SET EXTRACTED_REPO_DIR=fake-news-detection-main
+SET REPO_DOWNLOAD_URL=https://github.com/kandikits/fakenews-detection/releases/download/v1.0.0/fakenews-detection-main.zip
+SET REPO_DEPENDENCIES_URL=https://raw.githubusercontent.com/kandikits/fakenews-detection/main/requirements.txt
+SET REPO_NAME=fakenews-detection.zip
+SET EXTRACTED_REPO_DIR=fakenews-detection-main
 SET NOTEBOOK_NAME=FakeNewsdetection-starter.ipynb
 where /q python
 IF ERRORLEVEL 1 (
