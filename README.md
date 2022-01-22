@@ -32,4 +32,5 @@ FakeNews dectection experiment involves the following steps.
 
 ### Build your faq virtual agent in 5 minutes
 
-1. Run Jupyter notebook for quick changes and experiments
+1. Run Jupyter notebook **'FakeNewsDetection-starter.ipynb'** for starter solution on FakeNewsDetection data
+2. Run Jupyter notebook **'FakeNewsDetection-analysis.ipynb'** for detailed analysis on FakeNewsDetection data
